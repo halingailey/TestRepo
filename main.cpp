@@ -4,9 +4,11 @@ using namespace std;
 #include <iostream>
 
 int main(){
-  cout << "why" << endl;
+  cout << "gailey" << endl;
+  cout << "halin" << endl;
   cout << "hello" << endl;
   cout << "world" << endl;
   cout << "!" << endl;
+  cout << "2/18/2025" << endl;
   return 0;
 }
